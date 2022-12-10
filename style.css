@@ -1,0 +1,172 @@
+*{margin: 0; padding: 0;}
+
+
+/* header start */
+header{
+  overflow: hidden;
+}
+
+
+.left-header{
+  background-color: blueviolet;
+  width: 30%;
+  height:100px ;
+ float: left;
+}
+
+.right-header{
+  background-color:orchid;
+  width: 70%;
+  height:100px ;
+  overflow: hidden;
+}
+/* header ens */
+
+
+
+/* right-sec-start */
+
+section{
+  overflow: hidden;
+  height: 700px;
+}
+
+.right-sec{
+  float: left;
+  width: 60%;
+}
+.right-top{
+overflow: hidden;
+}
+.right-bottom{
+  height: 150px;
+  background-color:tomato;
+}
+.right-top-left{
+  height: 550PX;
+  width: 40%;
+  background-color:black;
+  float: left;
+}
+.yellow{
+  height:150px ;
+  width:80%;
+  background-color: yellow;
+  margin-top: 200px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 3px solid rgb(61, 42, 165);
+  margin-left: auto;
+  margin-right: auto; 
+}
+.right-top-right{
+  height: 550PX;
+  width: 60%;
+  overflow: hidden;
+}
+.right-top-right-up{
+  height: 40%;
+  background-color: rgb(245, 5, 5); 
+}
+.right-top-right-down{
+  height: 60%;
+  background-color: lightskyblue; 
+}
+/* right-sce-end */
+
+
+/* left-sec-start */
+.left-sec{
+  width: 40%;
+  overflow: hidden;
+}
+.left-top{ 
+  overflow: hidden;
+}
+
+.left-top-left{
+  background-color:chartreuse;
+  float: left;
+  height:300px;
+  width: 55%;
+}
+.left-top-right{
+  background-color: blue;
+  overflow: hidden;
+  height:300px;
+  width: 45%;
+}
+
+.left-bottom{
+  background-color: blueviolet;
+  height: 400px;
+  position: relative;
+}
+.bottom-left{
+  background-color: black;
+  width:35%;
+  height:200px;
+  position: absolute;
+  margin: 20px;
+  
+}
+.bottom-right{
+  background-color: bisque;
+  width: 25%;
+  height: 50px;
+  float: right;
+  margin-top: 320px;
+  margin-right: 20px;
+ 
+}
+
+/* left-sec-end */
+
+footer{
+  overflow: hidden;
+}
+
+.left-footer{ 
+  width: 25%;
+  height: 80px;
+  background-color: aquamarine;
+  float: left;
+}
+.middel-footer{
+  width: 50%;
+  height: 80px;
+  background-color: violet;
+  overflow: hidden;
+  float: left;
+}
+.right-footer{
+  width: 25%;
+  height: 80px;
+  background-color: aquamarine;
+  overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
